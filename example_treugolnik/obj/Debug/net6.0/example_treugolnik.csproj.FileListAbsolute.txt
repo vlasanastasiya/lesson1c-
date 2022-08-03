@@ -1,0 +1,15 @@
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.csproj.AssemblyReference.cache
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.AssemblyInfoInputs.cache
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.AssemblyInfo.cs
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\bin\Debug\net6.0\example_treugolnik.exe
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\bin\Debug\net6.0\example_treugolnik.deps.json
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\bin\Debug\net6.0\example_treugolnik.runtimeconfig.json
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\bin\Debug\net6.0\example_treugolnik.dll
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\bin\Debug\net6.0\example_treugolnik.pdb
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.dll
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\refint\example_treugolnik.dll
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.pdb
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\example_treugolnik.genruntimeconfig.cache
+C:\Users\selec\OneDrive\Рабочий стол\examples\example_treugolnik\obj\Debug\net6.0\ref\example_treugolnik.dll
